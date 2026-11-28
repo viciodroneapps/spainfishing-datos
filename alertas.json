@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-28T09:46:07.622322+00:00",
- "total": 5,
+ "generado": "2026-11-28T10:16:39.017914+00:00",
+ "total": 11,
  "alertas": [
   {
    "id": "meteo-Este de La Palma-lluvia-2026-11-28",
@@ -22,9 +22,69 @@
    "detalle": "Aviso oficial AEMET / MeteoAlarm (nivel moderate).",
    "zona": "Barros y Serena",
    "desde": "2026-11-28T23:00:00+00:00",
-   "hasta": "2026-11-29T10:59:59+00:00",
+   "hasta": "2026-11-29T08:59:59+00:00",
    "lat": 38.7039607,
    "lon": -5.8774867
+  },
+  {
+   "id": "meteo-La Mancha albaceteña-niebla-2026-11-28",
+   "tipo": "meteo",
+   "severidad": "media",
+   "titulo": "🌫️ Niebla en La Mancha albaceteña",
+   "detalle": "Aviso oficial AEMET / MeteoAlarm (nivel moderate).",
+   "zona": "La Mancha albaceteña",
+   "desde": "2026-11-28T23:00:00+00:00",
+   "hasta": "2026-11-29T08:59:59+00:00",
+   "lat": 39.0291334,
+   "lon": -1.8901905
+  },
+  {
+   "id": "meteo-La Mancha de Ciudad Real-niebla-2026-11-28",
+   "tipo": "meteo",
+   "severidad": "media",
+   "titulo": "🌫️ Niebla en La Mancha de Ciudad Real",
+   "detalle": "Aviso oficial AEMET / MeteoAlarm (nivel moderate).",
+   "zona": "La Mancha de Ciudad Real",
+   "desde": "2026-11-28T23:00:00+00:00",
+   "hasta": "2026-11-29T08:59:59+00:00",
+   "lat": 38.9848679,
+   "lon": -3.9131406
+  },
+  {
+   "id": "meteo-La Mancha toledana-niebla-2026-11-28",
+   "tipo": "meteo",
+   "severidad": "media",
+   "titulo": "🌫️ Niebla en La Mancha toledana",
+   "detalle": "Aviso oficial AEMET / MeteoAlarm (nivel moderate).",
+   "zona": "La Mancha toledana",
+   "desde": "2026-11-28T23:00:00+00:00",
+   "hasta": "2026-11-29T08:59:59+00:00",
+   "lat": 39.2830316,
+   "lon": -4.2564635
+  },
+  {
+   "id": "meteo-Meseta cacereña-niebla-2026-11-28",
+   "tipo": "meteo",
+   "severidad": "media",
+   "titulo": "🌫️ Niebla en Meseta cacereña",
+   "detalle": "Aviso oficial AEMET / MeteoAlarm (nivel moderate).",
+   "zona": "Meseta cacereña",
+   "desde": "2026-11-28T23:00:00+00:00",
+   "hasta": "2026-11-29T08:59:59+00:00",
+   "lat": 42.4040585,
+   "lon": -4.3877632
+  },
+  {
+   "id": "meteo-Sur, Vegas y Oeste-niebla-2026-11-28",
+   "tipo": "meteo",
+   "severidad": "media",
+   "titulo": "🌫️ Niebla en Sur, Vegas y Oeste",
+   "detalle": "Aviso oficial AEMET / MeteoAlarm (nivel moderate).",
+   "zona": "Sur, Vegas y Oeste",
+   "desde": "2026-11-28T23:00:00+00:00",
+   "hasta": "2026-11-29T08:59:59+00:00",
+   "lat": 42.535426,
+   "lon": -5.6192277
   },
   {
    "id": "meteo-Tajo y Alagón-niebla-2026-11-28",
@@ -34,9 +94,21 @@
    "detalle": "Aviso oficial AEMET / MeteoAlarm (nivel moderate).",
    "zona": "Tajo y Alagón",
    "desde": "2026-11-28T23:00:00+00:00",
-   "hasta": "2026-11-29T10:59:59+00:00",
+   "hasta": "2026-11-29T08:59:59+00:00",
    "lat": 40.0712047,
    "lon": -3.5034049
+  },
+  {
+   "id": "meteo-Valle del Guadiana-niebla-2026-11-28",
+   "tipo": "meteo",
+   "severidad": "media",
+   "titulo": "🌫️ Niebla en Valle del Guadiana",
+   "detalle": "Aviso oficial AEMET / MeteoAlarm (nivel moderate).",
+   "zona": "Valle del Guadiana",
+   "desde": "2026-11-28T23:00:00+00:00",
+   "hasta": "2026-11-29T08:59:59+00:00",
+   "lat": 40.7444349,
+   "lon": -4.0589293
   },
   {
    "id": "meteo-Valle del Tajo-niebla-2026-11-28",
@@ -46,7 +118,7 @@
    "detalle": "Aviso oficial AEMET / MeteoAlarm (nivel moderate).",
    "zona": "Valle del Tajo",
    "desde": "2026-11-28T23:00:00+00:00",
-   "hasta": "2026-11-29T10:59:59+00:00",
+   "hasta": "2026-11-29T08:59:59+00:00",
    "lat": 39.9524955,
    "lon": -4.5969556
   },
@@ -58,7 +130,7 @@
    "detalle": "Aviso oficial AEMET / MeteoAlarm (nivel moderate).",
    "zona": "Vegas del Guadiana",
    "desde": "2026-11-28T23:00:00+00:00",
-   "hasta": "2026-11-29T10:59:59+00:00",
+   "hasta": "2026-11-29T08:59:59+00:00",
    "lat": 38.9729216,
    "lon": -5.8063303
   }
