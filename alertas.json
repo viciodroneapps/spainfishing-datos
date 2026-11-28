@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-28T08:53:35.396736+00:00",
- "total": 7,
+ "generado": "2026-11-28T09:15:57.453970+00:00",
+ "total": 5,
  "alertas": [
   {
    "id": "meteo-Este de La Palma-lluvia-2026-11-28",
@@ -15,52 +15,28 @@
    "lon": -5.9115413
   },
   {
-   "id": "meteo-Barros y Serena-niebla-2026-11-27",
+   "id": "meteo-Barros y Serena-niebla-2026-11-28",
    "tipo": "meteo",
    "severidad": "media",
    "titulo": "🌫️ Niebla en Barros y Serena",
    "detalle": "Aviso oficial AEMET / MeteoAlarm (nivel moderate).",
    "zona": "Barros y Serena",
-   "desde": "2026-11-27T23:00:00+00:00",
-   "hasta": "2026-11-28T08:59:59+00:00",
+   "desde": "2026-11-28T23:00:00+00:00",
+   "hasta": "2026-11-29T10:59:59+00:00",
    "lat": 38.7039607,
    "lon": -5.8774867
   },
   {
-   "id": "meteo-La Siberia extremeña-niebla-2026-11-27",
-   "tipo": "meteo",
-   "severidad": "media",
-   "titulo": "🌫️ Niebla en La Siberia extremeña",
-   "detalle": "Aviso oficial AEMET / MeteoAlarm (nivel moderate).",
-   "zona": "La Siberia extremeña",
-   "desde": "2026-11-27T23:00:00+00:00",
-   "hasta": "2026-11-28T08:59:59+00:00",
-   "lat": 39.0430769,
-   "lon": -5.2347138
-  },
-  {
-   "id": "meteo-Tajo y Alagón-niebla-2026-11-27",
+   "id": "meteo-Tajo y Alagón-niebla-2026-11-28",
    "tipo": "meteo",
    "severidad": "media",
    "titulo": "🌫️ Niebla en Tajo y Alagón",
    "detalle": "Aviso oficial AEMET / MeteoAlarm (nivel moderate).",
    "zona": "Tajo y Alagón",
-   "desde": "2026-11-27T23:00:00+00:00",
-   "hasta": "2026-11-28T08:59:59+00:00",
+   "desde": "2026-11-28T23:00:00+00:00",
+   "hasta": "2026-11-29T10:59:59+00:00",
    "lat": 40.0712047,
    "lon": -3.5034049
-  },
-  {
-   "id": "meteo-Valle del Guadiana-niebla-2026-11-27",
-   "tipo": "meteo",
-   "severidad": "media",
-   "titulo": "🌫️ Niebla en Valle del Guadiana",
-   "detalle": "Aviso oficial AEMET / MeteoAlarm (nivel moderate).",
-   "zona": "Valle del Guadiana",
-   "desde": "2026-11-27T23:00:00+00:00",
-   "hasta": "2026-11-28T08:59:59+00:00",
-   "lat": 40.7444349,
-   "lon": -4.0589293
   },
   {
    "id": "meteo-Valle del Tajo-niebla-2026-11-28",
@@ -75,14 +51,14 @@
    "lon": -4.5969556
   },
   {
-   "id": "meteo-Vegas del Guadiana-niebla-2026-11-27",
+   "id": "meteo-Vegas del Guadiana-niebla-2026-11-28",
    "tipo": "meteo",
    "severidad": "media",
    "titulo": "🌫️ Niebla en Vegas del Guadiana",
    "detalle": "Aviso oficial AEMET / MeteoAlarm (nivel moderate).",
    "zona": "Vegas del Guadiana",
-   "desde": "2026-11-27T23:00:00+00:00",
-   "hasta": "2026-11-28T08:59:59+00:00",
+   "desde": "2026-11-28T23:00:00+00:00",
+   "hasta": "2026-11-29T10:59:59+00:00",
    "lat": 38.9729216,
    "lon": -5.8063303
   }
