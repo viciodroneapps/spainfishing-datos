@@ -1,0 +1,116 @@
+{
+ "generado": "2026-11-28T08:33:46.902289+00:00",
+ "total": 11,
+ "alertas": [
+  {
+   "id": "meteo-0-2026-11-27T23",
+   "tipo": "meteo",
+   "severidad": "media",
+   "titulo": "Aviso meteorológico: Yellow Fog Warning issued for Spain - Barros y Serena",
+   "detalle": "Moderate fog warning",
+   "zona": "Barros y Serena",
+   "desde": "2026-11-27T23:00:00+00:00",
+   "hasta": "2026-11-28T08:59:59+00:00"
+  },
+  {
+   "id": "meteo-4-2026-11-28T23",
+   "tipo": "meteo",
+   "severidad": "media",
+   "titulo": "Aviso meteorológico: Yellow Fog Warning issued for Spain - Barros y Serena",
+   "detalle": "Moderate fog warning",
+   "zona": "Barros y Serena",
+   "desde": "2026-11-28T23:00:00+00:00",
+   "hasta": "2026-11-29T10:59:59+00:00"
+  },
+  {
+   "id": "meteo-3-2026-11-27T23",
+   "tipo": "meteo",
+   "severidad": "media",
+   "titulo": "Aviso meteorológico: Yellow Fog Warning issued for Spain - La Siberia extremeña",
+   "detalle": "Moderate fog warning",
+   "zona": "La Siberia extremeña",
+   "desde": "2026-11-27T23:00:00+00:00",
+   "hasta": "2026-11-28T08:59:59+00:00"
+  },
+  {
+   "id": "meteo-1-2026-11-27T23",
+   "tipo": "meteo",
+   "severidad": "media",
+   "titulo": "Aviso meteorológico: Yellow Fog Warning issued for Spain - Tajo y Alagón",
+   "detalle": "Moderate fog warning",
+   "zona": "Tajo y Alagón",
+   "desde": "2026-11-27T23:00:00+00:00",
+   "hasta": "2026-11-28T08:59:59+00:00"
+  },
+  {
+   "id": "meteo-9-2026-11-28T23",
+   "tipo": "meteo",
+   "severidad": "media",
+   "titulo": "Aviso meteorológico: Yellow Fog Warning issued for Spain - Tajo y Alagón",
+   "detalle": "Moderate fog warning",
+   "zona": "Tajo y Alagón",
+   "desde": "2026-11-28T23:00:00+00:00",
+   "hasta": "2026-11-29T10:59:59+00:00"
+  },
+  {
+   "id": "meteo-6-2026-11-27T23",
+   "tipo": "meteo",
+   "severidad": "media",
+   "titulo": "Aviso meteorológico: Yellow Fog Warning issued for Spain - Valle del Guadiana",
+   "detalle": "Moderate fog warning",
+   "zona": "Valle del Guadiana",
+   "desde": "2026-11-27T23:00:00+00:00",
+   "hasta": "2026-11-28T08:59:59+00:00"
+  },
+  {
+   "id": "meteo-5-2026-11-28T23",
+   "tipo": "meteo",
+   "severidad": "media",
+   "titulo": "Aviso meteorológico: Yellow Fog Warning issued for Spain - Valle del Tajo",
+   "detalle": "Moderate fog warning",
+   "zona": "Valle del Tajo",
+   "desde": "2026-11-28T23:00:00+00:00",
+   "hasta": "2026-11-29T10:59:59+00:00"
+  },
+  {
+   "id": "meteo-7-2026-11-27T23",
+   "tipo": "meteo",
+   "severidad": "media",
+   "titulo": "Aviso meteorológico: Yellow Fog Warning issued for Spain - Valle del Tajo",
+   "detalle": "Moderate fog warning",
+   "zona": "Valle del Tajo",
+   "desde": "2026-11-27T23:00:00+00:00",
+   "hasta": "2026-11-28T08:59:59+00:00"
+  },
+  {
+   "id": "meteo-2-2026-11-27T23",
+   "tipo": "meteo",
+   "severidad": "media",
+   "titulo": "Aviso meteorológico: Yellow Fog Warning issued for Spain - Vegas del Guadiana",
+   "detalle": "Moderate fog warning",
+   "zona": "Vegas del Guadiana",
+   "desde": "2026-11-27T23:00:00+00:00",
+   "hasta": "2026-11-28T08:59:59+00:00"
+  },
+  {
+   "id": "meteo-10-2026-11-28T23",
+   "tipo": "meteo",
+   "severidad": "media",
+   "titulo": "Aviso meteorológico: Yellow Fog Warning issued for Spain - Vegas del Guadiana",
+   "detalle": "Moderate fog warning",
+   "zona": "Vegas del Guadiana",
+   "desde": "2026-11-28T23:00:00+00:00",
+   "hasta": "2026-11-29T10:59:59+00:00"
+  },
+  {
+   "id": "meteo-8-2026-11-28T00",
+   "tipo": "meteo",
+   "severidad": "media",
+   "titulo": "Aviso meteorológico: Yellow Rain Warning issued for Spain - Este de La Palma",
+   "detalle": "Moderate rain warning",
+   "zona": "Este de La Palma",
+   "desde": "2026-11-28T00:00:00+00:00",
+   "hasta": "2026-11-28T14:59:59+00:00"
+  }
+ ]
+}
